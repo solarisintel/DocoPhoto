@@ -1,31 +1,39 @@
-## OfflineMaps app Privacy Policy
-solarisintel built the OfflineMaps app as a Free app. This SERVICE is provided by solarisintel at no cost and is intended for use as is.  
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.  
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at OfflineMaps unless otherwise defined in this Privacy Policy.  
+## 「どこフォト」アプリのプライバシー ポリシー
+Solarisintel は、「どこフォト」 アプリを無料アプリとして構築しました。
+このアプリのサービスは、solarisintel によって無料で提供され、現状のまま使用することを目的としています。
+このページは、誰かが私のサービスを使用することを決めた場合に、個人情報の収集、使用、開示に関する私のポリシーについて訪問者に通知するために使用されます。
+このサービスを使用することを選択した場合、このポリシーに関連した情報の収集と使用に同意したことになります。 私が収集した個人情報は、サービスの提供と改善のために使用されます。 このプライバシー ポリシーに記載されている場合を除き、私はあなたの情報を使用したり、誰かと共有したりすることはありません。
+このプライバシーポリシーで使用される用語は、本プライバシーポリシーで別途定義されていない限り、「どこフォト」アプリでアクセスできる当社の利用規約と同じ意味を持ちます。
 
-### Information Collection and Use
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.  
-The app does use third party services that may collect information used to identify you.  
-Link to privacy policy of third party service providers used by the app Google Play Services  
+### 情報の収集と使用
+より良いエクスペリエンスを提供するために、当社のサービスをご利用いただく際に、特定の個人を特定できる情報の提供をお願いする場合があります。 
+私が要求した情報はあなたのデバイスに保存され、私によって収集されることはありません。
+このアプリは、お客様を特定するために使用される情報を収集する可能性のあるサードパーティのサービスを使用します。
+アプリ Google Play サービスで使用されるサードパーティ サービス 
+プロバイダーのプライバシー ポリシーへのリンク
 
-### Cookies
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.  
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+＃＃＃ クッキー
+Cookie は、匿名の一意の識別子として一般に使用される少量のデータを含むファイルです。 これらは、アクセスした Web サイトからブラウザに送信され、デバイスの内部メモリに保存されます。
+本サービスはこれらの「Cookie」を明示的に使用しません。 ただし、アプリは情報を収集しサービスを向上させるために「Cookie」を使用するサードパーティのコードとライブラリを使用する場合があります。 これらの Cookie を受け入れるか拒否するかを選択でき、Cookie がいつデバイスに送信されるかを知ることができます。 当社の Cookie を拒否することを選択した場合、本サービスの一部を使用できなくなる場合があります。
 
-### Security
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+＃＃＃ 安全
+私はお客様の信頼を大切に個人情報を提供していただくため、商業的に許容される個人情報の保護手段を使用するよう努めています。 
+ただし、インターネット上の送信方法や電子保存方法は 100% 安全で信頼できるものではなく、その絶対的な安全性を保証することはできないことを
+覚えておいてください。
 
-### Links to Other Sites
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.  
+### 他のサイトへのリンク
+本サービスには他のサイトへのリンクが含まれる場合があります。 サードパーティのリンクをクリックすると、そのサイトに移動します。 
+これらの外部サイトは私が運営しているものではないことに注意してください。 
+したがって、これらの Web サイトのプライバシー ポリシーを確認することを強くお勧めします。
+私は、第三者のサイトやサービスのコンテンツ、プライバシー ポリシー、慣行を管理することはできず、責任を負いません。
 
-### Children’s Privacy
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.  
+### 子供のプライバシー
+このサービスは 18 歳未満には対応しません。私は 18 歳未満の子供から故意に個人を特定できる情報を収集しません。18 歳未満の子供が私に個人情報を提供したことが判明した場合、私は直ちにこれをサーバーから削除します。 あなたが親または保護者で、お子様が当社に個人情報を提供したことをご存じの場合は、必要な措置を講じることができるよう、私にご連絡ください。
 
-### Changes to This Privacy Policy
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+### このプライバシー ポリシーの変更
+当社のプライバシーポリシーは随時更新される場合があります。 したがって、変更がないか定期的にこのページを確認することをお勧めします。 変更があった場合は、このページに新しいプライバシー ポリシーを掲載してお知らせします。 これらの変更は、このページに掲載された直後から有効になります。
   
-### Contact Us
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+＃＃＃ お問い合わせ
+私のプライバシーポリシーについてご質問やご提案がございましたら、お気軽にご連絡ください。
 
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+このプライバシー ポリシー ページは、privacypolicytemplate.net で作成され、App Privacy Policy Generator によって変更/生成されました。
